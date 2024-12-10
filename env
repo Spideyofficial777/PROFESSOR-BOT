@@ -1,0 +1,18 @@
+# Telegram Bot Token from @BotFather
+BOT_TOKEN=7669903655:AAHDQkGtUzbn5DzBQv3jisAxJiu4x0KMLKM
+
+# Telegram API Details from telegram.org
+API_ID=28519661
+API_HASH=d47c74c8a596fd3048955b322304109d
+
+# Channel or Group Details
+CHANNELS=@SPIDEYOFFICIAL_777 @SPIDEY_OFFICIAL_MOVIES
+ADMINS=@SPIDEY_OFFICIAL_777 @HACKER_X_OFFICIAL_777 5518489725
+
+# MongoDB Configuration
+DATABASE_URL=mongodb+srv://jemop86702:tQFLgzuhDv3dwZwR@cluster0.xpamk.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
+DATABASE_NAME=Cluster0
+
+# Logging and Support
+LOG_CHANNEL=-1002294764885
+SUPPORT_CHAT=-1002294764885
